@@ -1,7 +1,9 @@
 # God Bean
 
 Цю штуку мені показва товариш по роботі, в одному з проектів.
+
 read code and have fun :)
+
 PS: and never do such things
 
 ## This is simple REST
@@ -9,5 +11,3 @@ PS: and never do such things
 ### Howto
 1. Enable internet - this is important
 2. ./gradlew bootRun
-
-
