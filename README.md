@@ -1,6 +1,6 @@
 # God Bean
 
-This concept showed me fried of my. In one of projects he found this... 
+Цю штуку мені показва товариш по роботі, в одному з проектів.
 read code and have fun :)
 PS: and never do such things
 
